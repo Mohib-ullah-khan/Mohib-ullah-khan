@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on making smart and innovative applications
 - 💬 Ask me about Technology, Machine Learnning, Web & Mobile Apps, Software Engineering
 - 📫 How to reach me: https://www.linkedin.com/in/mohib-ullah-khan-21b432213/
-- ⚡ Fun fact: I can dance without shame
+- ⚡ Fun fact: I can dance pretty well
