@@ -1,9 +1,3 @@
-### Hi there 👋
+Experienced Full Stack Engineer | Software Architect | Tech Enthusiast
 
-- 🔭 I’m currently working on MERN stack appications
-- :punch: I have experience working with AWS Servies
-- :punch: I have R&D experience in Machine Learning, Computer Vision & Robotics
-- 🌱 I’m looking to get into Mobile App Development using React Native
-- 👯 I’m looking to collaborate on making smart and innovative applications
-- 💬 Ask me about Technology, Web & Mobile Apps, Software Engineering
-- 📫 How to reach me: https://www.linkedin.com/in/mohib-ullah-khan-21b432213/
+Passionate about crafting exceptional software solutions, I bring expertise in full-stack development, DevOps, and software engineering to drive innovation and create seamless user experiences. With a solid background in diverse technology stacks, I thrive in dynamic environments where I can contribute my skills and knowledge to build cutting-edge applications.
